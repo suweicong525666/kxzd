@@ -1,0 +1,11 @@
+{
+  "defaultTitle": "开心赚点",
+  "allowsBounceVertical": "NO",
+  "titleBarColor": "#FFFFFF",
+  "transparentTitle": "auto",
+  "titlePenetrate": "YES",
+    "usingComponents": {
+    "ad-task": "plugin://myPlugin/ad-task",
+    "modal":"/components/modal/modal"
+  }
+}
